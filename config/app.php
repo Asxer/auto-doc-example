@@ -150,6 +150,7 @@ return [
         /*
          * Package Service Providers...
          */
+        RonasIT\Support\AutoDoc\AutoDocServiceProvider::class,
 
         /*
          * Application Service Providers...
