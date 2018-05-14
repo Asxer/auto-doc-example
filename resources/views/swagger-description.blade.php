@@ -8,7 +8,7 @@ Here is project description from <b>swagger-description.blade.php</b>
         </pre>
     </div>
 </div>
-Or some image<br/>
+Or some image
 <div style="display: flex; justify-content: center; width: 100%">
     <img src="/img/hqdefault.jpg"/>
 </div>
